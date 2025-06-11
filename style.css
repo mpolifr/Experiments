@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background: #f0f4f8;
+  padding: 20px;
+}
+
+button {
+  background: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+textarea {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#terms div {
+  margin: 5px;
+  padding: 5px;
+  background: #c8e6c9;
+  display: inline-block;
+  cursor: grab;
+}
+
+svg {
+  border: 1px solid #009688;
+  margin-top: 20px;
+}
